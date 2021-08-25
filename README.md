@@ -5,3 +5,7 @@ Voit ajaa POM-testin komennolla "robot login.robot" ja scriptatun version "pytho
 
 RF-kansiosta löydät Robot frameworkin POM esimerkit. Testit löydät "Tests"-kansiosta ja voit ajaa ne komennolla "robot Login.robot" ja "robot PageObject.robot".
 POM-testien resurssitiedostot löydät kansiorakenteesta Resources -> PageObject. Kansiot: TestData, Locators, KeywordDefination.
+
+Pääkansiosta löytyvät "page_object.robot" ja "WebDemoLibrary.py" ovat Pekan tekemiä esimerkkitoteutuksia, joiden tehtävänä on havainnollistaa Page Object Modelin
+kirjastorakennetta. Voit halutessasi ajaa WebDemoLibraryn testit "Demoapp"-kansiosta löytyvällä server-tiedostolla.
+
